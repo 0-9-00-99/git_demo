@@ -10,3 +10,4 @@ hello git! hello sunday!
 hello git! hello sunday!
 hello git! hello sunday!  master test
 hello git! hello sunday!
+hello git! hello sunday!  hot-fix test
